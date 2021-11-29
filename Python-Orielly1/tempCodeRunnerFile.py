@@ -1,0 +1,3 @@
+cities = []
+
+print(type(cities))

@@ -1,0 +1,3 @@
+Python Orielly/
+Python-Code/*.pdf
+Python-Code/*.code-workspace
