@@ -1,3 +1,0 @@
-cities = []
-
-print(type(cities))
